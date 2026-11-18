@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    background-image: url(background-image.jpg)
+}
+
+/* NAVIGATION BAR */
+#nav-bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+};
