@@ -47,7 +47,7 @@ nav li:first-child {
 }
 
 /* SIDE BAR - FOR MOBILE */
-.side-bar {
+#sidebar {
     position: fixed;
     top: 0;
     right: 0;
@@ -57,7 +57,7 @@ nav li:first-child {
     background-color: rgba(255, 255, 255, 0.579);
     backdrop-filter: blur(10px);
     box-shadow: -10px 0 10px;
-    display: flex;
+    display: none;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
